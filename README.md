@@ -7,7 +7,7 @@ I did this as part of my undergraduate thesis project that aimed to develop a pa
 
 #### Background 
 
-The VQE is a quantum algorithm that can be used to calculate ground state ennergy of a Hamiltonian. It was proposed as an algorithm that can be implemented on a Noisy Intermediate-Scale Quantum (NISQ) device, which are small to intermediate scale quantum computers. 
+The VQE is a quantum algorithm that can be used to calculate the ground state energy of a Hamiltonian. It was proposed as an algorithm that can be implemented on a Noisy Intermediate-Scale Quantum (NISQ) device, which are small to intermediate scale quantum computers. 
 
 ### Dependencies
 
