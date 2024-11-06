@@ -1,10 +1,13 @@
-# Efficient Hamiltonisn Partitioning for Variational Quantum Eigensolver (VQE)
+# Calculating the ground state energy of a 2-qubit Hamiltonian using the Variational Quantum Eigensolver (VQE)
 
 ### Description 
 
-This project aimed to develop a partitioning scheme for a Hamiltonian that will able to be efficiently measured on a Quantum Computer. 
-I have included in this repository an excercise where I programmed a VQE algorithm for a 2-qubit Hamiltonian using Cirq, which I used to familiarize myself with the workings of the VQE. 
-The code for the efficient partitioning will be posted in the near future.
+For this excercise, I programmed a VQE algorithm for a 2-qubit Hamiltonian using Cirq, which I used to familiarize myself with the workings of the VQE. 
+I did this as part of my undergraduate thesis project that aimed to develop a partitioning scheme for a Hamiltonian that will able to be efficiently measured on a Quantum Computer. 
+
+#### Background 
+
+The VQE is a quantum algorithm that can be used to calculate ground state ennergy of a Hamiltonian. It was proposed as an algorithm that can be implemented on a Noisy Intermediate-Scale Quantum (NISQ) device, which are small to intermediate scale quantum computers. 
 
 ### Dependencies
 
